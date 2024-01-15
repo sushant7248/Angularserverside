@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AngularApp1.Server.props" />
+</Project>

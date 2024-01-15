@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "jpAhCROBClC2gBotoMzFCJIA+sUofCjOlD4HZZXr59s=",
+  "Source": "AngularApp1.Server",
+  "BasePath": "_content/AngularApp1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\shoya\\source\\repos\\AngularApp1\\angularapp1.client\\angularapp1.client.esproj",
+      "Version": 2,
+      "Source": "angularapp1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
